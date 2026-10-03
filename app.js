@@ -57,7 +57,7 @@
     const envelope = document.createElement('span');
     envelope.className = 'envelope';
     envelope.setAttribute('aria-hidden', 'true');
-    envelope.innerHTML = '<span class="envelope-fold"></span><span class="envelope-flap"></span><span class="envelope-stamp">♡</span><span class="envelope-seal">♥</span><span class="envelope-address">para ti, mi amor</span>';
+    envelope.innerHTML = '<span class="envelope-fold"></span><span class="envelope-flap"></span><span class="envelope-stamp">♡</span><span class="envelope-seal">♥</span><span class="envelope-address">para ti, mi niña</span>';
 
     const label = document.createElement('span');
     label.className = 'letter-card-label';

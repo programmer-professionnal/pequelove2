@@ -1,6 +1,6 @@
-# Para ti — Un buzón de amor
+# Para Jacqueline, mi niña — Un buzón de amor
 
-Una página de cartas y poemas, hecha con HTML, CSS y JavaScript. No necesita instalación, cuentas, base de datos ni compilación.
+Una página de cartas y poemas dedicada a **Jacqueline, mi niña**, hecha con HTML, CSS y JavaScript. Las cartas la saludan como «Mi niña» y la dedicatoria aparece en la portada, los sobres y la firma. No necesita instalación, cuentas, base de datos ni compilación.
 
 El buzón incluye **130 cartas largas y sentimentales**, cada una con su propio poema, editables en `cartas.js`. Incluye cartas para cuando sientas que me estoy volviendo a alejar, para recordar cuánto te deseo y para recordar nuestro comienzo. La carta de cierre está en el sobre 130.
 
@@ -35,7 +35,7 @@ Ejemplo de entrada:
 {
   id: "cuando-quieras-celebrar",
   titulo: "Cuando quieras celebrar",
-  mensaje: `Mi amor,
+  mensaje: `Mi niña,
 
 Hoy quiero celebrar contigo, incluso si el motivo parece pequeño.
 
@@ -64,7 +64,7 @@ El calendario muestra el ciclo anual que contiene la fecha local del dispositivo
 Para personalizar una carta diaria, busca su `fecha` en `cartas-diarias.js` y cambia `titulo` y `mensaje`. Las entradas están ordenadas de agosto a julio y usan el formato **mes-día**, por ejemplo:
 
 ```js
-{ fecha: "08-02", titulo: "Nuestra primera cita", mensaje: `Mi amor,
+{ fecha: "08-02", titulo: "Nuestra primera cita", mensaje: `Mi niña,
 
 Aquí puedes escribir tu recuerdo y dejar todos los párrafos que quieras.` },
 ```

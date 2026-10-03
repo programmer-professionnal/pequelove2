@@ -12,7 +12,7 @@
  * {
  *   id: "un-momento-especial",
  *   titulo: "Cuando quieras una sorpresa",
- *   mensaje: `Mi amor,
+ *   mensaje: `Mi niña,
  *
  * Aquí empieza tu carta. Puedes escribir tanto como quieras.
  *
@@ -28,7 +28,7 @@ window.CARTAS = [
   {
     id: "cuando-me-extranes",
     titulo: "Cuando me extrañes",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy me extrañas, quisiera poder doblar la distancia como se dobla esta carta y guardarla en un bolsillo. Mientras encuentro cómo hacerlo, te dejo estas palabras para acercarme un poquito.
 
@@ -51,7 +51,7 @@ por si lo quieres guardar.`,
   {
     id: "cuando-necesites-un-abrazo",
     titulo: "Cuando necesites un abrazo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Ven, acércate a estas palabras. Hoy no necesitas traer una sonrisa ni encontrar la manera perfecta de explicar lo que sientes. Puedes llegar tal como estás, con un día bonito o con uno de esos que parecen pesar un poco más.
 
@@ -74,7 +74,7 @@ hecho con todo mi amor.`,
   {
     id: "por-que-te-elijo",
     titulo: "Cuando quieras saber por qué te elijo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Te elijo porque quiero conocerte de verdad, más allá de los días fáciles y de las palabras bonitas. Me interesa lo que piensas, lo que te ilusiona y esas pequeñas cosas a las que quizá tú no les das tanta importancia.
 
@@ -97,7 +97,7 @@ de quererte cada vez con más verdad.`,
   {
     id: "un-dia-dificil",
     titulo: "Cuando hayas tenido un día difícil",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Siento que hoy las cosas hayan pesado. No voy a pedirte que encuentres enseguida el lado bonito ni que conviertas el cansancio en una lección. Hay días que simplemente cuestan, y puedes decirlo sin suavizarlo para nadie.
 
@@ -120,7 +120,7 @@ y un lugar donde descansar.`,
   {
     id: "cuando-necesites-sonreir",
     titulo: "Cuando necesites sonreír",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esta carta tiene una misión pequeña: intentar robarte una sonrisa. No una enorme, de esas de fotografía; con una esquinita de la boca me doy por bien servido. Y si hoy no sale, el intento viene con cariño de todas formas.
 
@@ -143,7 +143,7 @@ que sonríe cuando sonríes.`,
   {
     id: "cuando-te-cueste-dormir",
     titulo: "Cuando te cueste dormir",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si abriste esta carta porque el sueño todavía no llega, aquí tienes unas palabras tranquilas. No hay nada que resolver en ellas, ninguna pregunta que contestar ni una sorpresa que te obligue a seguir leyendo hasta el final.
 
@@ -166,7 +166,7 @@ acompañar sin despertar.`,
   {
     id: "nuestro-futuro",
     titulo: "Cuando quieras imaginar nuestro futuro",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Cuando imagino lo que podríamos vivir, no veo un calendario perfectamente escrito. Veo posibilidades: una conversación que se alarga, una receta que intentamos preparar, un lugar nuevo al que llegamos con ganas de mirar alrededor.
 
@@ -189,7 +189,7 @@ y mil maneras de empezar.`,
   {
     id: "cuanto-te-amo",
     titulo: "Cuando quieras leer cuánto te amo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Te amo. Quería empezar así, sin dar demasiadas vueltas, porque a veces busco una frase preciosa y termino alejándome de lo más sencillo que quería decirte.
 
@@ -212,7 +212,7 @@ a estar contigo, aquí y hoy.`,
   {
     id: "cuando-empieces-un-nuevo-dia",
     titulo: "Cuando empieces un nuevo día",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Buenos días. Quería dejarte un saludo que no tuviera prisa, de esos que se quedan un ratito contigo mientras el mundo empieza a hacer ruido. Si pudiera, acompañaría estas palabras con un beso en la frente y unos minutos más a tu lado.
 
@@ -235,7 +235,7 @@ y un buenos días de corazón.`,
   {
     id: "cuando-tengas-algo-que-celebrar",
     titulo: "Cuando tengas algo que celebrar",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 ¡Ven, cuéntamelo todo! Quiero saber qué pasó, cómo te sentiste y en qué momento te diste cuenta de que tenías una buena noticia. Me hace ilusión imaginarte abriendo este sobre con algo bonito entre las manos.
 
@@ -258,7 +258,7 @@ y el paso que diste hoy.`,
   {
     id: "cuando-dudes-de-ti",
     titulo: "Cuando dudes de ti",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy te estás mirando con demasiada dureza, quisiera prestarte un momento mis ojos. No para convencerte de que puedes con absolutamente todo, sino para recordarte que eres mucho más que aquello que ahora te cuesta.
 
@@ -281,7 +281,7 @@ hay tanto en ti por conocer.`,
   {
     id: "cuando-vayas-a-dar-un-primer-paso",
     titulo: "Cuando vayas a dar un primer paso",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hay comienzos que emocionan y asustan al mismo tiempo. Si estás delante de uno, imagina que esta carta te toma suavemente de la mano, sin tirar de ti. El paso es tuyo; yo solo quiero estar cerca mientras decides cómo darlo.
 
@@ -304,7 +304,7 @@ y tiempo para echar a andar.`,
   {
     id: "cuando-quieras-un-beso",
     titulo: "Cuando quieras un beso",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Este sobre contiene un beso. Lo envolví con cuidado para que no se escapara por el camino, aunque sospecho que se impacientó un poco esperando a que lo abrieras. Ya sabes: hay besos que tienen muchas ganas de llegar.
 
@@ -327,7 +327,7 @@ en las esquinas de este buzón.`,
   {
     id: "cuando-haya-una-tarde-de-lluvia",
     titulo: "Cuando haya una tarde de lluvia",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si está lloviendo cuando lees esto, ya tenemos música de fondo. Y si no, podemos inventarnos una tarde con gotas en la ventana, algo calentito entre las manos y ningún sitio al que llegar con prisa.
 
@@ -350,7 +350,7 @@ un rato tranquilo para los dos.`,
   {
     id: "cuando-quieras-leer-un-gracias",
     titulo: "Cuando quieras leer un gracias",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hoy quería escribirte una palabra pequeña que a veces dejamos para las ocasiones grandes: gracias. Gracias por dejarme conocerte y por compartir conmigo una parte de tu tiempo, de tus ideas y de tu mundo.
 
@@ -373,7 +373,7 @@ por lo que juntos descubrimos.`,
   {
     id: "cuando-quieras-una-carta-porque-si",
     titulo: "Cuando quieras una carta porque sí",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esta carta no espera un aniversario ni una fecha señalada. Tampoco necesita que estés triste, contenta o buscando algo concreto. Existe porque hoy me pareció una buena idea escribirte y dejar un poquito de cariño donde pudieras encontrarlo.
 
@@ -396,7 +396,7 @@ un poco más bonito junto a ti.`,
   {
     id: "cuando-necesites-llorar",
     titulo: "Cuando necesites llorar",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si esta carta te encuentra con lágrimas en los ojos, no tienes que secártelas para seguir leyendo. Puedes dejarla abierta, hacer una pausa o volver después. Quisiera que mis palabras supieran sentarse a tu lado sin preguntarte enseguida cuándo vas a sentirte mejor.
 
@@ -419,7 +419,7 @@ y un cariño que escucha bajito.`,
   {
     id: "cuando-te-sientas-sola",
     titulo: "Cuando te sientas sola",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hay ratos en los que el mundo parece seguir su camino y una se queda un poquito al margen. Si hoy te sientes así, quisiera acercarme con cuidado, sin dar por hecho que una carta puede cambiarlo todo. La escribí para ofrecerte algo sencillo: unas palabras que te hagan compañía un momento.
 
@@ -442,7 +442,7 @@ y te acompañen un poco al pasar.`,
   {
     id: "cuando-no-te-sientas-bonita",
     titulo: "Cuando no te sientas bonita",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy el espejo no está siendo amable contigo, quisiera apartarlo un momento y acercarme yo. No para discutir con lo que sientes ni para exigirte que te mires de otra manera. Solo para contarte que, cuando pienso en ti, no veo una imagen quieta que tenga que cumplir con ninguna medida.
 
@@ -465,7 +465,7 @@ qué bonito poderte encontrar.`,
   {
     id: "cuando-todo-vaya-demasiado-deprisa",
     titulo: "Cuando todo vaya demasiado deprisa",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esta carta va despacio. La escribí imaginando que quizá la abrirías en medio de un día lleno de cosas, cuando hasta los minutos parecen tener prisa. Aquí no hay una lista que completar. Puedes leer una línea y dejar las demás para otro rato; mi cariño no tiene cronómetro.
 
@@ -488,7 +488,7 @@ mirando contigo la vida.`,
   {
     id: "cuando-te-cueste-decir-lo-que-sientes",
     titulo: "Cuando te cueste decir lo que sientes",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 No tienes que encontrar la frase perfecta antes de acercarte a mí. Puedes empezar por un no sé cómo explicarlo, por una idea a medias o por pedir un momento. Hay cosas que se entienden mientras se van diciendo, y quiero darte espacio para que descubras tus propias palabras.
 
@@ -511,7 +511,7 @@ cuando la voz sale bajita.`,
   {
     id: "cuando-algo-no-salga-como-esperabas",
     titulo: "Cuando algo no salga como esperabas",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Sé que una decepción puede doler más de lo que se ve desde fuera. A veces no se pierde solo un plan; también se pierde la imagen que habíamos construido alrededor, las ganas con las que esperábamos y ese pequeño futuro al que ya le habíamos hecho sitio. Si hoy te pasa algo así, quiero escucharte sin restarle importancia.
 
@@ -534,7 +534,7 @@ hoy te quiero acompañar también.`,
   {
     id: "cuando-sientas-que-vas-tarde",
     titulo: "Cuando sientas que vas tarde",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy miraste la vida de alguien más y sentiste que la tuya tendría que estar en otro lugar, quisiera sentarme contigo antes de que esa comparación se vuelva una sentencia. Desde fuera casi nunca vemos el recorrido completo de una persona. A veces comparamos nuestras preguntas más íntimas con la parte de su historia que alcanzamos a conocer.
 
@@ -557,7 +557,7 @@ y ternura entre una estación y otra estación.`,
   {
     id: "cuando-despidas-una-etapa",
     titulo: "Cuando tengas que despedirte de una etapa",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hay despedidas que no son de una persona, sino de una forma de vivir, de una costumbre o de una versión de quienes somos que ya no puede quedarse igual. Si estás atravesando una de esas, imagino que puede haber sentimientos mezclados. Alivio y tristeza, ilusión y miedo, gratitud junto a unas ganas enormes de llorar.
 
@@ -580,7 +580,7 @@ sin apurar tu forma de pasar.`,
   {
     id: "cuando-quieras-volver-a-empezar",
     titulo: "Cuando quieras volver a empezar",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Volver a empezar puede dar una vergüenza extraña, como si tuviéramos que explicar por qué el camino anterior no alcanzó. Si eso te está pesando, quisiera acercarte una idea más cariñosa: empezar de nuevo también puede ser una manera de escucharte, de reconocer que has cambiado o que ahora sabes algo que antes no sabías.
 
@@ -603,7 +603,7 @@ por si te acompaña al decidir.`,
   {
     id: "cuando-tengas-un-sueno-grande",
     titulo: "Cuando tengas un sueño grande",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Cuéntame ese sueño que te ilumina por dentro, incluso si todavía te da un poco de pudor decirlo en voz alta. No hace falta que lo hagas más pequeño para que quepa en la conversación. Quiero escucharlo como tú lo imaginas, con sus detalles, sus preguntas y esa parte que quizá te hace sonreír antes de acabar la frase.
 
@@ -626,7 +626,7 @@ volver a preguntarte otra vez.`,
   {
     id: "cuando-quieras-saber-que-me-llenas-de-orgullo",
     titulo: "Cuando quieras saber que me llenas de orgullo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hay una forma de orgullo que no necesita diplomas ni anuncios. Es la que siento al pensar en todo lo que una persona va aprendiendo mientras vive, en el trabajo silencioso de conocerse y en las veces que vuelve a mirar algo con un poquito más de honestidad. Hoy quería escribirte desde ese lugar.
 
@@ -649,7 +649,7 @@ cuando solo quieras descansar.`,
   {
     id: "cuando-quieras-saber-lo-que-admiro-de-ti",
     titulo: "Cuando quieras saber lo que admiro de ti",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Podría llenar esta carta de adjetivos bonitos, pero prefiero empezar por algo más cercano: me interesa muchísimo la persona que eres. Tu manera de pensar, el mundo que has ido formando y las cosas que decides compartir conmigo. Hay una admiración muy tierna en querer seguir escuchando a alguien porque sabes que aún tiene mucho por contarte.
 
@@ -672,7 +672,7 @@ con ganas de volverte a mirar.`,
   {
     id: "cuando-necesites-sentirte-escuchada",
     titulo: "Cuando necesites sentirte escuchada",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esta carta empieza haciéndote sitio. Si tienes algo guardado desde hace rato, algo que intentaste contar y quedó a medias, quisiera que encontraras conmigo un momento para decirlo entero. A veces una conversación cambia mucho cuando podemos dejar de resumirnos para no molestar.
 
@@ -695,7 +695,7 @@ donde te nazca terminar.`,
   {
     id: "cuando-quieras-estar-en-silencio",
     titulo: "Cuando quieras estar en silencio",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hay una escena que me gusta imaginar: estamos cerca, cada quien ocupado en algo sencillo, y de vez en cuando nuestras miradas se encuentran. Nadie corre a llenar el silencio. Basta una sonrisa pequeña para saber que compartimos el momento y que estamos a gusto ahí.
 
@@ -718,7 +718,7 @@ la alegría de volverte a mirar.`,
   {
     id: "cuando-necesites-tiempo-para-ti",
     titulo: "Cuando necesites tiempo para ti",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy tienes ganas de estar contigo misma, quiero que puedas decírmelo con tranquilidad. Me gusta compartir tiempo contigo, muchísimo, y también deseo que tengas espacio para escuchar tus propias ideas, descansar a tu manera y hacer esas cosas que disfrutas sin compañía.
 
@@ -741,7 +741,7 @@ con todo lo que somos al llegar.`,
   {
     id: "cuando-no-estemos-de-acuerdo",
     titulo: "Cuando no estemos de acuerdo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si abriste esta carta después de una diferencia entre nosotros, quisiera empezar bajando la voz. Me importas más que la satisfacción de tener la última palabra. Eso no significa que lo que sentimos o pensamos deje de importar, sino que quiero encontrar una forma de hablarlo que cuide a los dos.
 
@@ -764,7 +764,7 @@ de cómo aprender a conversar.`,
   {
     id: "cuando-tengamos-algo-pendiente-que-hablar",
     titulo: "Cuando tengamos algo pendiente que hablar",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 A veces una conversación se queda esperando porque no sabemos cómo empezar. Seguimos hablando de otras cosas y, aun así, sentimos ese pequeño asunto entre los dos. Si hoy hay algo parecido, esta carta quiere acercarse con una invitación sencilla: busquemos un momento en el que podamos prestarnos atención de verdad.
 
@@ -787,7 +787,7 @@ con ganas de entenderte a ti.`,
   {
     id: "cuando-quieras-recordar-que-somos-un-equipo",
     titulo: "Cuando quieras recordar que somos un equipo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Cuando pienso en hacer equipo contigo, imagino dos personas que pueden preguntarse cómo ayudarse sin dejar de tener voz propia. No alguien que decide por el otro ni dos personas intentando poder con todo a la vez. Me gusta la idea de aprender a repartir lo que compartimos y a reconocer cuándo hace falta pedir una mano.
 
@@ -810,7 +810,7 @@ aprendiendo a cuidarse al andar.`,
   {
     id: "cuando-quieras-saber-como-quiero-cuidarte",
     titulo: "Cuando quieras saber cómo quiero cuidarte",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Quisiera cuidarte empezando por conocerte mejor. Preguntarte qué te hace sentir querida, qué gestos disfrutas y cuáles no van contigo. A veces imaginamos que amar mucho basta para acertar, pero yo quiero que mi cariño también sepa escuchar y encuentre una forma que de verdad te resulte cercana.
 
@@ -833,7 +833,7 @@ en lo que hago para cuidar.`,
   {
     id: "cuando-pienses-en-el-paso-del-tiempo",
     titulo: "Cuando pienses en el paso del tiempo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 El tiempo me hace pensar en todas las versiones de nosotros que todavía no conocemos. En las cosas que hoy nos importan y quizá un día miraremos de otra manera. Me da ternura imaginar que podamos seguir preguntándonos quiénes somos, incluso cuando creamos conocer bastante bien la respuesta.
 
@@ -856,7 +856,7 @@ la ternura de mirarnos de verdad.`,
   {
     id: "cuando-celebremos-un-dia-especial",
     titulo: "Cuando celebremos un día especial",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy hay una fecha que quieres celebrar conmigo, me alegra que esta carta pueda formar parte de ella. Me gusta pensar en una pausa para mirarnos y reconocer lo que estamos compartiendo. A veces los días pasan tan deprisa que viene bien detenerse y decir: esto me importa, tú me importas, qué bonito poder encontrarnos aquí.
 
@@ -879,7 +879,7 @@ al que nos guste regresar.`,
   {
     id: "cuando-falte-poco-para-vernos",
     titulo: "Cuando falte poco para vernos",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esta carta está escrita desde las ganas. Desde esa ilusión de saber que se acerca un encuentro y empezar a imaginar un saludo, una mirada, el primer abrazo. Si falta poco para vernos, quizá entiendas por qué estas palabras parecen tener una sonrisa incluso antes de que termine la primera página.
 
@@ -902,7 +902,7 @@ cuántas ganas de poderte mirar.`,
   {
     id: "cuando-acabemos-de-despedirnos",
     titulo: "Cuando acabemos de despedirnos",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si acabamos de despedirnos y todavía te quedaban ganas de estar un rato más, esta carta quiere acompañar esa sensación. La escribí pensando en ese instante en el que cada quien sigue su camino y la cercanía permanece un momento en la memoria, como una canción que continúa después de terminar.
 
@@ -925,7 +925,7 @@ qué gusto habernos podido encontrar.`,
   {
     id: "cuando-quieras-imaginar-una-cita",
     titulo: "Cuando quieras imaginar una cita",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Te propongo una cita que por ahora vive en estas líneas. Podemos cambiarle todos los detalles después, pero déjame empezar por lo que más me ilusiona: tener tiempo para ti y notar que tú también has hecho un lugar para compartirlo conmigo. Eso ya vuelve especial cualquier plan que elijamos.
 
@@ -948,7 +948,7 @@ cuando te imagino llegar.`,
   {
     id: "cuando-quieras-bailar-conmigo",
     titulo: "Cuando quieras bailar conmigo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si esta carta pudiera hacer algo más que quedarse quieta, te ofrecería la mano. Quisiera invitarte a bailar un rato, aunque no tengamos una pista ni sepamos muy bien qué hacer con los pies. Me gusta imaginar una canción elegida entre los dos y ese pequeño acuerdo de acercarnos para compartirla.
 
@@ -971,7 +971,7 @@ nos queda reír y seguir.`,
   {
     id: "cuando-una-cancion-te-recuerde-a-nosotros",
     titulo: "Cuando una canción te recuerde a nosotros",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hay canciones que de pronto encuentran una persona dentro. Las escuchas y algo en la melodía, en la manera de decir una frase o en el momento del día te lleva a pensar en alguien. Si hoy una canción te recordó a nosotros, me hace ilusión que abras esta carta y me dejes acompañarte mientras termina.
 
@@ -994,7 +994,7 @@ la música nos vuelve a acercar.`,
   {
     id: "cuando-mires-las-estrellas",
     titulo: "Cuando mires las estrellas",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si tienes un pedacito de cielo cerca, imagina que esta carta te invita a mirarlo conmigo. No hace falta una noche perfecta ni conocer el nombre de ninguna estrella. A veces basta levantar la vista y quedarse un momento en esa amplitud que nos recuerda cuántas cosas existen más allá de la prisa del día.
 
@@ -1017,7 +1017,7 @@ qué bonito encontrarnos los dos.`,
   {
     id: "cuando-quieras-leer-algo-cursi",
     titulo: "Cuando quieras leer algo cursi",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Abriste el sobre adecuado. Hoy he decidido permitirle a mi lado más cursi escribir sin hacerse el interesante. Así que aquí va la primera confesión: si pudiera guardar un beso en cada esquina de esta página, necesitaría una página con muchísimas más esquinas. Las cuatro normales se me quedarían cortas enseguida.
 
@@ -1040,7 +1040,7 @@ es que estaba pensando en ti.`,
   {
     id: "cuando-tengas-ganas-de-una-aventura",
     titulo: "Cuando tengas ganas de una aventura",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy tienes ganas de salir de lo conocido, te propongo empezar imaginando una aventura juntos. Puede ser pequeña: tomar otra calle, visitar un lugar cercano al que nunca hemos ido o dedicar una tarde a probar algo distinto. Me ilusiona descubrir cómo cambia un sitio cuando lo miramos con curiosidad y sin saberlo todo de antemano.
 
@@ -1063,7 +1063,7 @@ del que después podamos sonreír.`,
   {
     id: "cuando-necesites-reirte-de-un-dia-imperfecto",
     titulo: "Cuando necesites reírte de un día imperfecto",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy el día parece haber sido organizado por un calcetín perdido, esta carta viene a sentarse contigo en el pequeño desastre. Quizá hubo una torpeza, un plan que salió rarísimo o una de esas cadenas de detalles absurdos que dan ganas de mirar al techo y preguntar si alguien está ensayando una comedia.
 
@@ -1086,7 +1086,7 @@ un beso que salga a la primera.`,
   {
     id: "cuando-quieras-saber-que-significa-hogar",
     titulo: "Cuando quieras saber qué significa hogar para mí",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Cuando pienso en la palabra hogar, imagino un lugar donde puedo dejar de ensayar cómo decir cada cosa. Un sitio con espacio para la risa, para el cansancio y para las conversaciones que necesitan tiempo. Si te escribo sobre ello, es porque me ilusiona que podamos compartir algo de esa calidez cuando estamos juntos.
 
@@ -1109,7 +1109,7 @@ cuando elijamos juntos estar.`,
   {
     id: "cuando-quieras-guardar-este-momento",
     titulo: "Cuando quieras guardar este momento",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si abriste este sobre porque ahora mismo hay algo bonito que quisieras conservar, quédate un momento ahí. No hace falta que sea extraordinario. Puede ser una alegría tranquila, una buena conversación o simplemente darte cuenta de que estás a gusto. Me encanta pensar que esta carta podría encontrarte justo en uno de esos instantes.
 
@@ -1132,7 +1132,7 @@ por si regresas otro día.`,
   {
     id: "cuando-vuelvas-a-este-buzon",
     titulo: "Cuando vuelvas a este buzón después de un tiempo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Qué bonito que hayas vuelto a abrir este lugar. Cuando escribí estas cartas, me gustó imaginar que no tendrías que leerlas todas de una vez. Que alguna podría quedarse esperando en silencio y encontrarte después, en otro día, con una luz diferente y quizá con una versión un poco distinta de ti.
 
@@ -1155,7 +1155,7 @@ en este rincón de cariño.`,
   {
     id: "cuando-quieras-una-promesa-sencilla",
     titulo: "Cuando quieras una promesa sencilla",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hoy no quiero escribirte una promesa tan grande que termine pareciéndose a una frase prestada. Prefiero ofrecerte algo que pueda encontrar sitio en nuestros días: la intención de hablarte con honestidad, prestar atención a lo que compartimos y hacerme cargo de mi parte al cuidarlo. Me parece una manera muy íntima de decirte que te quiero.
 
@@ -1178,7 +1178,7 @@ cuando salgamos del papel a andar.`,
   {
     id: "cuando-quieras-saber-como-pienso-en-ti",
     titulo: "Cuando quieras saber cómo pienso en ti",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si pudiera enseñarte cómo aparece tu nombre dentro de mis pensamientos, esta carta tendría pequeñas ventanas. En una habría una idea que quiero contarte; en otra, un plan que me daría gusto compartir. No sería una imagen solemne ni perfectamente ordenada. Se parecería más a esas ganas de acercarse que aparecen entre las cosas normales del día.
 
@@ -1201,7 +1201,7 @@ un sitio cálido en mi atención.`,
   {
     id: "cuando-te-sorprenda-un-mensaje-mio",
     titulo: "Cuando te sorprenda un mensaje mío",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Imagina que este sobre acaba de llegar en mitad de tu día, sin anunciar una fecha ni pedir una respuesta inmediata. Solo quería aparecer un momento para decirte algo bonito. Me gusta pensar en el pequeño cambio que puede producir una nota inesperada: estabas haciendo lo tuyo y de pronto encuentras unas palabras escritas con ganas de acercarse a ti.
 
@@ -1224,7 +1224,7 @@ el cariño sabe quedarse aquí.`,
   {
     id: "cuando-quieras-sentir-que-tienes-un-lugar",
     titulo: "Cuando quieras sentir que tienes un lugar en mi vida",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Quiero que tengas un lugar que puedas reconocer, no solo una frase bonita que aparece de vez en cuando. Un espacio en las conversaciones, en los planes que podamos hacer y en la atención que dedico a lo que me cuentas. Me gustaría que mi cariño tuviera esas señales pequeñas que ayudan a sentir que una presencia es querida y tenida en cuenta.
 
@@ -1247,7 +1247,7 @@ y aprender contigo a encontrarlo al andar.`,
   {
     id: "cuando-se-nos-quede-corto-el-tiempo",
     titulo: "Cuando se nos quede corto el tiempo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hay encuentros que una imagina terminando con la frase un poquito más. Si alguna vez abrimos este sobre porque el rato compartido se nos hizo breve, quisiera guardar aquí las ganas que quedaron. La conversación que todavía tenía otra vuelta, el beso que hubiéramos alargado o ese plan pequeño que decidimos dejar para cuando podamos encontrarnos otra vez.
 
@@ -1270,7 +1270,7 @@ para otro rato que podamos cuidar.`,
   {
     id: "cuando-necesites-un-beso-en-la-frente",
     titulo: "Cuando necesites un beso en la frente",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Este sobre guarda un beso tranquilo. De esos que imagino dando con mucho cuidado, acercándome despacio y quedándome un instante antes de apartarme. Hay algo especialmente tierno en un beso en la frente: puede acompañar un saludo, una despedida o ese momento en el que las palabras parecen demasiado grandes para lo que queremos expresar con suavidad.
 
@@ -1293,7 +1293,7 @@ acercarse con ganas de cuidar.`,
   {
     id: "cuando-quieras-caminar-de-mi-mano",
     titulo: "Cuando quieras caminar de mi mano",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Te imagino a mi lado en un paseo sin demasiada prisa. Todavía no hemos decidido si girar en la siguiente esquina y eso nos da igual por un momento, porque estamos conversando a gusto. Me gustaría acercar mi mano a la tuya y sentir ese acuerdo pequeño de seguir juntos por un rato, dejando que el camino acompañe lo que vamos diciendo.
 
@@ -1316,7 +1316,7 @@ qué gusto tenerte al mirar.`,
   {
     id: "cuando-imagines-un-amanecer-juntos",
     titulo: "Cuando imagines un amanecer juntos",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hay una escena que quisiera regalarte hoy: un amanecer compartido, con el cielo cambiando de color y nosotros encontrando un lugar desde donde verlo. No sé si preferiríamos una ventana, un paseo temprano o algún sitio tranquilo al aire libre. Me gusta dejar esos detalles abiertos para que tú también puedas elegir la forma de esta pequeña ilusión.
 
@@ -1339,7 +1339,7 @@ antes de que hable más fuerte el sol.`,
   {
     id: "cuando-termine-un-domingo",
     titulo: "Cuando termine un domingo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si es domingo por la tarde y sientes que el descanso se va acabando demasiado rápido, esta carta quiere sentarse contigo un rato. Hay una luz particular en ese final del día, una mezcla de calma y de pensamientos que ya se adelantan a lo que viene. Me gustaría ayudarte a guardar un pequeño espacio para lo que todavía está ocurriendo ahora.
 
@@ -1362,7 +1362,7 @@ hoy todavía queda ternura en esta.`,
   {
     id: "cuando-llegue-un-viernes",
     titulo: "Cuando llegue un viernes",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Este sobre tiene un poquito de esa emoción de terminar la semana y preguntarse qué nos apetece hacer ahora. Quizá el viernes no signifique descanso para ti esta vez, pero podemos usarlo como excusa para imaginar un rato bonito. Me gustaría encontrarte al final del día y preguntarte qué clase de compañía te vendría bien después de todo lo vivido.
 
@@ -1385,7 +1385,7 @@ lo demás lo podemos conversar.`,
   {
     id: "cuando-estes-lejos-de-casa",
     titulo: "Cuando estés lejos de casa",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy estás en un lugar distinto y echas de menos lo familiar, quisiera mandarte una pequeña bienvenida dentro de este sobre. Estar lejos puede traer curiosidad y también esa sensación extraña de buscar las cosas por costumbre donde ya no están. Quizá todo vaya bien y aun así te apetezca escuchar algo cercano. Esta carta quiere acompañarte precisamente ahí.
 
@@ -1408,7 +1408,7 @@ y un rincón donde sentirte a gusto contigo.`,
   {
     id: "cuando-hagas-la-maleta",
     titulo: "Cuando hagas la maleta",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si estás preparando una maleta, imagina que esta carta aparece entre la ropa doblada como una nota que dejé para ti. No ocupa sitio y, por suerte, no cuenta como equipaje extra. Quería acompañar ese momento raro y bonito en el que una parte de ti sigue aquí y otra ya está imaginando cómo será llegar al siguiente lugar.
 
@@ -1431,7 +1431,7 @@ y ganas bonitas de volverlas a ver.`,
   {
     id: "cuando-cumplas-anos",
     titulo: "Cuando cumplas años",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy es tu cumpleaños, me alegra que esta carta pueda acercarse a celebrarte. Quisiera empezar con algo sencillo y muy sentido: qué bonito que existas. Que tengas una historia propia, deseos que van cambiando y tantas maneras de mirar el mundo que aún puedo ir conociendo. Hoy me nace detenerme en la alegría de coincidir contigo.
 
@@ -1454,7 +1454,7 @@ de que te dé gusto este año habitar.`,
   {
     id: "cuando-te-espere-un-dia-importante",
     titulo: "Cuando te espere un día importante",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si mañana o dentro de unas horas tienes algo importante, quisiera acompañarte en este momento anterior, cuando la imaginación ya está ensayando lo que podría pasar. Puede haber ilusión, nervios y muchas ganas de saber cómo irá. Esta carta no trae un pronóstico; trae cariño para la persona que está preparándose y que merece ser tratada con suavidad mientras espera.
 
@@ -1477,7 +1477,7 @@ para escucharte y descansar.`,
   {
     id: "cuando-esperes-una-noticia",
     titulo: "Cuando esperes una noticia",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esperar algo que importa puede hacer que el reloj se sienta distinto. Revisas una vez más, intentas concentrarte en otra cosa y de pronto estás pensando de nuevo en la respuesta. Si hoy te encuentras ahí, esta carta quiere ofrecerte un rato de compañía sin adivinar el futuro ni pedirte que dejes de sentir lo que sientes.
 
@@ -1500,7 +1500,7 @@ me gustaría poderla escuchar.`,
   {
     id: "cuando-te-cueste-decir-que-no",
     titulo: "Cuando te cueste decir que no",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy necesitas decir que no a algo y te está costando, quisiera acercarte un poco de ternura antes de que intentes encontrar las palabras. A veces una sabe lo que prefiere y aun así se queda pensando en cómo lo recibirá el otro. Me gustaría que pudieras escucharte con la misma atención que das a las necesidades de quienes te importan.
 
@@ -1523,7 +1523,7 @@ y encontrarnos donde quieras estar.`,
   {
     id: "cuando-cambies-de-opinion",
     titulo: "Cuando cambies de opinión",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si algo que antes querías ya no te hace sentir igual, puedes darte tiempo para reconocerlo. Cambiar de opinión a veces parece pequeño desde fuera y, por dentro, mueve muchas cosas: las expectativas, lo que habíamos contado y la imagen que teníamos de nosotras mismas. Quisiera que esta carta te recibiera sin pedirte que mantengas una idea solo porque alguna vez la dijiste.
 
@@ -1546,7 +1546,7 @@ quién eres cuando vuelves a hablar.`,
   {
     id: "cuando-temas-decepcionar-a-alguien",
     titulo: "Cuando temas decepcionar a alguien",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy estás intentando encontrar una decisión que deje contento a todo el mundo, imagino lo cansado que puede sentirse ese lugar. A veces las ganas de cuidar a otros nos hacen mirar sus expectativas antes de preguntarnos qué podemos sostener de verdad. Quisiera que por un momento esta carta hiciera sitio también para ti dentro de esa conversación.
 
@@ -1569,7 +1569,7 @@ para cuando te atrevas a hablar.`,
   {
     id: "cuando-te-sientas-muy-sensible",
     titulo: "Cuando te sientas muy sensible",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy todo parece llegarte un poquito más hondo, quiero escribirte con especial suavidad. Quizá una canción te conmueva, una frase te pese o un gesto sencillo te haga llorar sin que sepas muy bien por qué. No necesitas tener una explicación completa para reconocer cómo está siendo tu día y tratarte con un poco de cariño mientras lo atraviesas.
 
@@ -1592,7 +1592,7 @@ podemos bajito conversar.`,
   {
     id: "cuando-te-pese-una-culpa",
     titulo: "Cuando te pese una culpa",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy estás recordando algo que hubieras querido hacer de otra manera, quisiera acompañarte a mirarlo con honestidad y con ternura. A veces sentir culpa señala algo que deseamos reparar; otras veces cargamos responsabilidades que no nos correspondían por completo. No conozco lo que estás viviendo, así que prefiero escucharte antes de intentar darle un nombre o una salida.
 
@@ -1615,7 +1615,7 @@ por donde puedas continuar.`,
   {
     id: "cuando-quieras-hacer-las-paces-contigo",
     titulo: "Cuando quieras hacer las paces contigo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy te apetece tratarte de una manera más amable, quisiera acompañar ese comienzo con unas palabras cálidas. No hace falta encontrar de golpe una relación perfecta contigo misma. Quizá baste con notar una frase dura y preguntarte si existe otra forma de decir lo mismo, una que te permita aprender sin hacerte daño cada vez que miras un error.
 
@@ -1638,7 +1638,7 @@ tu ternura puede aprender a llegar.`,
   {
     id: "cuando-sientas-nostalgia",
     titulo: "Cuando sientas nostalgia",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy un recuerdo te llegó con una mezcla de alegría y tristeza, me gustaría que pudieras contarlo sin tener que elegir solo una de las dos. La nostalgia a veces se parece a abrir una ventana hacia un lugar que fue importante y descubrir que todavía entra luz, aunque ya no podamos volver exactamente del mismo modo a lo que había allí.
 
@@ -1661,7 +1661,7 @@ el presente también nos quiere encontrar.`,
   {
     id: "cuando-extranes-una-version-de-ti",
     titulo: "Cuando extrañes una versión de ti",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Tal vez hoy recuerdes una época en la que te sentías de otra manera y te dé pena haber cambiado. Una versión tuya con más tiempo, otras ilusiones o costumbres que dejaste atrás. Quisiera que pudieras mirar esa sensación con cariño, sin convertirla enseguida en una acusación contra la persona que eres ahora. Hay historias detrás de cada transformación que merecen ser escuchadas.
 
@@ -1684,7 +1684,7 @@ con todo tu camino al llegar.`,
   {
     id: "cuando-quieras-descansar-de-ser-fuerte",
     titulo: "Cuando quieras descansar de ser fuerte",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy estás cansada de sostenerte con buena cara, quisiera ofrecerte un lugar donde no tengas que empezar diciendo que todo está bien. Puedes admitir que algo pesa, que necesitas ayuda o que simplemente ya no tienes ganas de organizar otra cosa. Me gustaría recibir esa honestidad con cuidado, sin convertirla en una sorpresa incómoda ni pedirte que vuelvas enseguida a animarte.
 
@@ -1707,7 +1707,7 @@ sin pedirte nada a cambio al llegar.`,
   {
     id: "cuando-quieras-pedir-un-poco-de-carino",
     titulo: "Cuando quieras pedir un poco de cariño",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy te apetece un abrazo, un mensaje dulce o un ratito de compañía, me gustaría que sintieras libertad para decirlo. A veces esperamos que la otra persona adivine exactamente lo que necesitamos y nos quedamos tristes cuando no ocurre. Yo prefiero conocerte a través de tus palabras, aprender lo que te hace bien y conversar cómo podemos acercarnos de una manera cómoda para ambos.
 
@@ -1730,7 +1730,7 @@ y a elegir cómo nos queremos acercar.`,
   {
     id: "cuando-quieras-contarme-algo-muy-tuyo",
     titulo: "Cuando quieras contarme algo muy tuyo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hay algo de tu mundo que te apetece compartir conmigo y todavía no sabes cómo empezar, quisiera recibir esa posibilidad con cuidado. Puede ser una ilusión, una vergüenza pequeña o una historia que no sueles contar. Lo que me conmueve es la confianza de que elijas acercarte, no la idea de conocer cada rincón de ti como si me correspondiera por quererte.
 
@@ -1753,7 +1753,7 @@ mi cariño aprende a respetar.`,
   {
     id: "cuando-quieras-contarme-tus-pequenas-manias",
     titulo: "Cuando quieras contarme tus pequeñas manías",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esta carta tiene curiosidad por las cosas pequeñas. Por esas preferencias que quizá te hacen reír al contarlas: cómo te gusta acomodar algo, qué parte de una comida dejas para el final o qué detalle vuelve cómodo un rato en casa. No conozco todas las tuyas y precisamente por eso me ilusiona preguntarte. Hay mucho de una persona en sus pequeñas maneras de habitar el día.
 
@@ -1776,7 +1776,7 @@ qué gusto seguir encontrándote.`,
   {
     id: "cuando-quieras-ensenarme-algo-que-amas",
     titulo: "Cuando quieras enseñarme algo que amas",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Me gustaría que alguna vez me llevaras de la mano hacia algo que te entusiasma y me dijeras: mira, esto me encanta. Puede ser una actividad, una historia, una canción o un tema del que podrías hablar durante mucho rato. Me ilusiona conocer esas partes de tu mundo desde la emoción con la que tú las vives, no solo desde una explicación rápida de qué son.
 
@@ -1799,7 +1799,7 @@ qué bonito asomarnos a ver.`,
   {
     id: "cuando-quieras-inventar-una-tradicion",
     titulo: "Cuando quieras inventar una tradición nuestra",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Me gusta imaginar que podríamos elegir una costumbre pequeña y darle un lugar nuestro. Algo que no necesite grandes preparativos: escribirnos una nota de vez en cuando, escoger una canción para un paseo o preparar juntos alguna cosa cuando encontremos una tarde libre. Una tradición puede empezar sin ceremonia, casi como un juego que nos dio gusto y al que queremos volver.
 
@@ -1822,7 +1822,7 @@ qué bonito encontrarlo junto a ti.`,
   {
     id: "cuando-quieras-elegir-nuestro-proximo-recuerdo",
     titulo: "Cuando quieras elegir nuestro próximo recuerdo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hay algo bonito en pensar que un recuerdo querido puede empezar como una conversación cualquiera. Un día alguien propone un plan, el otro añade una idea y de pronto hemos hecho espacio para encontrarnos. Todavía no sabemos qué detalle se quedará con nosotros después, pero ya existe la ilusión de compartir un rato que pueda tener nuestra forma.
 
@@ -1845,7 +1845,7 @@ y las ganas de estar juntos allí.`,
   {
     id: "cuando-quieras-cocinar-conmigo",
     titulo: "Cuando quieras cocinar conmigo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hoy quiero invitarte a una cocina que todavía estamos imaginando. Hay una receta sobre la mesa, algo de música y la posibilidad de pasar un rato haciendo algo entre los dos. No importa si elegimos un plato sencillo o si necesitamos leer las instrucciones tres veces; lo que me ilusiona es compartir el proceso, repartirnos las tareas y disfrutar de ir conversando mientras hacemos algo rico.
 
@@ -1868,7 +1868,7 @@ y sentarnos después a disfrutar.`,
   {
     id: "cuando-compartamos-un-postre",
     titulo: "Cuando quieras compartir un postre conmigo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esta carta tiene antojo de una escena muy sencilla: nosotros frente a algo dulce, decidiendo si pedir dos cosas distintas o compartir una. Me hace gracia lo romántico que puede volverse un momento así cuando hay ganas de estar juntos. No hace falta una cena enorme para que me ilusione mirarte al otro lado de la mesa y conversar un rato más.
 
@@ -1891,7 +1891,7 @@ un beso que podamos compartir al mirar.`,
   {
     id: "cuando-quieras-imaginar-un-picnic",
     titulo: "Cuando quieras imaginar un picnic juntos",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Abre este sobre como quien extiende una manta sobre el pasto. Imagina un lugar cómodo, algo rico para compartir y una tarde que hemos reservado para estar juntos sin demasiadas cosas de por medio. Me gustaría que esta carta tuviera aire fresco entre sus líneas y un espacio donde puedas sentarte a imaginar conmigo un plan sencillo, elegido a nuestro gusto.
 
@@ -1914,7 +1914,7 @@ sin pedirle que se vuelva nada más.`,
   {
     id: "cuando-quieras-ver-un-atardecer",
     titulo: "Cuando quieras ver un atardecer conmigo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si la luz está cambiando donde te encuentras, imagina que me acerco a la ventana o al lugar desde el que la estás mirando. Me gustaría compartir contigo esa parte del día en la que todo parece tener otros bordes, como si la tarde nos invitara a fijarnos un poquito más. Hay algo muy dulce en detenerse juntos ante una belleza que no necesita pertenecerle a nadie.
 
@@ -1937,7 +1937,7 @@ nos queda una noche por conversar.`,
   {
     id: "cuando-imagines-un-viaje-en-tren",
     titulo: "Cuando imagines un viaje en tren conmigo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esta carta empieza junto a una ventanilla. Imagina que viajamos en tren y todavía falta un rato para llegar, el suficiente para acomodarnos, mirar el paisaje y disfrutar de estar sentados cerca. No he elegido un destino porque me gustaría preguntarte a dónde te haría ilusión ir. Por ahora, lo que más me enternece es el trayecto compartido, ese tiempo intermedio que puede sentirse muy nuestro.
 
@@ -1960,7 +1960,7 @@ qué bonito compartir la vía.`,
   {
     id: "cuando-prefieras-quedarte-en-casa",
     titulo: "Cuando prefieras quedarte en casa",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy el plan que más te apetece es quedarte en casa, esta carta viene en ropa cómoda. No trae prisa ni ganas de convencerte de salir. Quisiera imaginar contigo una tarde donde podamos disfrutar de lo sencillo: algo rico, una conversación, una película si nos interesa o el gusto de compartir espacio mientras cada quien hace una cosa tranquila.
 
@@ -1983,7 +1983,7 @@ y que podamos juntos disfrutar.`,
   {
     id: "cuando-mires-por-la-ventana",
     titulo: "Cuando mires por la ventana",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si estás mirando por una ventana, me gustaría sentarme imaginariamente cerca y preguntarte qué ves. Tal vez pase alguien, cambie el cielo o solo haya una calle que conoces de memoria. Me enternece pensar que mientras yo escribo estas palabras, tú puedes encontrarlas dentro de un paisaje completamente distinto y traer tu propio momento a esta conversación de papel.
 
@@ -2006,7 +2006,7 @@ hay un cariño que quiere quedar.`,
   {
     id: "cuando-encuentres-una-flor",
     titulo: "Cuando encuentres una flor",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy encuentras una flor que te parece bonita, imagina que este sobre la acompaña con una nota. No hace falta que sea de un ramo ni de una ocasión especial. Puede estar en una maceta, en un jardín o creciendo en algún lugar inesperado. Me gusta la idea de que un detalle así pueda detenerte un instante y regalarte algo agradable que mirar.
 
@@ -2029,7 +2029,7 @@ un detalle que puedas guardar.`,
   {
     id: "cuando-quieras-una-carta-escrita-despacio",
     titulo: "Cuando quieras una carta escrita despacio",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esta carta quiere tomarse su tiempo. Imagino que la escribo en una mesa tranquila, eligiendo cada frase con la intención de que puedas sentir mi cercanía al leerla. Hay cosas que se pueden decir rápido y otras que me dan ganas de desarrollar, de dejar respirar entre los párrafos para que encuentren una manera más precisa de llegar a ti.
 
@@ -2052,7 +2052,7 @@ por si te apetece quedarte a mirar.`,
   {
     id: "cuando-quieras-una-declaracion-sencilla",
     titulo: "Cuando quieras una declaración sin adornos",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Te quiero. Me gusta compartir tiempo contigo y deseo seguir conociéndote. Quería empezar así, de una manera clara, porque a veces una declaración se llena de imágenes y termina escondiendo la frase que le dio origen. Hoy quiero que encuentres lo principal desde el comienzo: me importas y me nace tratar esa cercanía con cariño, atención y honestidad.
 
@@ -2075,7 +2075,7 @@ el cariño que llevan es para ti.`,
   {
     id: "cuando-quieras-saber-lo-que-deseo-para-ti",
     titulo: "Cuando quieras saber lo que deseo para ti",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Cuando pienso en lo que deseo para ti, aparece una vida donde puedas reconocerte. Con espacio para tus gustos, personas que te traten con respeto y momentos que te hagan sentir a gusto contigo misma. No tengo una imagen exacta de cómo debe verse esa vida; me interesa conocer la forma que tú quieres darle y alegrarme de que puedas elegir con más claridad lo que te hace bien.
 
@@ -2098,7 +2098,7 @@ con ganas de aprenderte a acompañar.`,
   {
     id: "cuando-quieras-saber-lo-que-aprendo-al-quererte",
     titulo: "Cuando quieras saber lo que aprendo al quererte",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Quererte me invita a mirar con más atención. A preguntarme cómo puedo expresar lo que siento de una manera que también tenga en cuenta lo que tú necesitas, lo que disfrutas y la forma en que prefieres acercarte. No quiero dar por hecho que el cariño basta para comprenderlo todo. Me gusta que haya espacio para aprender, conversar y dejar que tu voz cambie alguna de mis suposiciones.
 
@@ -2121,7 +2121,7 @@ seguir conociéndote al conversar.`,
   {
     id: "cuando-quieras-saber-como-imagino-la-confianza",
     titulo: "Cuando quieras saber cómo imagino la confianza",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Cuando imagino la confianza contigo, pienso en la tranquilidad de poder hablar sin preparar una versión perfecta de cada cosa. Decir cómo estamos, preguntar algo que nos inquieta o reconocer que cometimos un error. Me gustaría que esa confianza tuviera raíces en experiencias concretas, en momentos donde ambos podamos comprobar que las palabras importantes se reciben con respeto y que los acuerdos significan algo.
 
@@ -2144,7 +2144,7 @@ paso a paso, al aprender a vivir.`,
   {
     id: "cuando-quieras-imaginar-nuestra-complicidad",
     titulo: "Cuando quieras imaginar nuestra complicidad",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Me gusta imaginar que con el tiempo podamos reunir un pequeño idioma compartido. No uno que tengamos que inventar de golpe, sino algo que vaya naciendo de conversaciones, ocurrencias y momentos que nos hicieron gracia. Una palabra que recuerde un plan, una mirada que invite a reír o una pregunta que los dos reconozcamos como el comienzo de una historia querida.
 
@@ -2167,7 +2167,7 @@ qué bonito volvernos a encontrar.`,
   {
     id: "cuando-quieras-vernos-con-ojos-nuevos",
     titulo: "Cuando quieras vernos con ojos nuevos",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hoy quisiera invitarte a una conversación que empiece con curiosidad. Imaginar que, aunque conozcamos partes del otro, todavía hay preguntas capaces de sorprendernos. Qué te está gustando últimamente, qué idea cambió, qué experiencia te apetece intentar. Me parece romántico dar espacio a la persona que está delante ahora, sin suponer que todas sus respuestas ya quedaron escritas hace tiempo.
 
@@ -2190,7 +2190,7 @@ a quien nos da gusto encontrar.`,
   {
     id: "cuando-quieras-guardar-mi-voz-en-palabras",
     titulo: "Cuando quieras guardar mi voz en palabras",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si te apetece, lee esta carta imaginando una voz que te habla cerca y sin prisa. Una voz que sonríe un poco antes de decir tu nombre y que quiere encontrar la manera más cálida de hacerte llegar cariño. Las letras no pueden guardar cada tono, pero me gusta intentar que tengan pausas, respiración y esa intención suave con la que me gustaría acercarme a ti.
 
@@ -2213,7 +2213,7 @@ un beso que puedas imaginar.`,
   {
     id: "cuando-quieras-recibir-cien-besos",
     titulo: "Cuando quieras recibir cien besos",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Este sobre se ha tomado demasiado en serio su trabajo y decidió traer cien besos. No te preocupes: vienen en versión escrita, así que puedes repartirlos a tu gusto y guardar algunos para después. Me hizo ilusión imaginar un regalo exageradamente tierno, uno que pudiera decirte entre sonrisas cuántas ganas tengo de acercarme y compartir cariño contigo cuando a los dos nos apetezca.
 
@@ -2236,7 +2236,7 @@ nos queda la ternura para contar.`,
   {
     id: "cuando-quieras-una-carta-dentro-de-otra",
     titulo: "Cuando quieras una carta dentro de otra",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hoy he imaginado una sorpresa de papel: dentro de este sobre hay una carta y dentro de la carta, otra más pequeña. La primera te recibe con unas palabras tranquilas, te invita a sentarte y te cuenta que alguien tuvo ganas de preparar algo tierno para ti. La segunda está doblada con cuidado y espera a que llegues, como esos detalles que hacen más bonita una sorpresa sencilla.
 
@@ -2259,7 +2259,7 @@ y darte un motivo dulce para volver.`,
   {
     id: "cuando-quieras-leer-mi-posdata",
     titulo: "Cuando quieras leer mi posdata",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 A veces una carta termina y todavía queda algo por decir. Una frase que llega cuando ya habíamos encontrado la despedida, un detalle que no queremos dejar fuera o un beso que parecía necesitar su propia línea. Me gusta esa pequeña rebeldía de la posdata: el cariño asomándose otra vez por la puerta porque aún tiene ganas de quedarse un minuto más.
 
@@ -2282,7 +2282,7 @@ porque me nace volver a llegar.`,
   {
     id: "cuando-quieras-un-amor-sin-prisa",
     titulo: "Cuando quieras un amor sin prisa",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Me gusta imaginar un cariño que encuentre tiempo para conocernos. Que pueda disfrutar de una conversación sin estar preguntándose enseguida qué viene después, que preste atención a lo que somos hoy y descubra con curiosidad lo que todavía no sabemos del otro. Si abriste esta carta buscando una forma tranquila de sentirte querida, quisiera ofrecerte esa cercanía hecha de atención y pequeños encuentros elegidos.
 
@@ -2305,7 +2305,7 @@ y aprende contigo a caminar.`,
   {
     id: "cuando-imagines-una-libreria-juntos",
     titulo: "Cuando imagines una librería juntos",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hoy te invito a entrar conmigo en una librería imaginaria. Hay estantes que todavía no hemos recorrido y tiempo para detenernos donde algo nos llame la atención. Me gusta pensar en un plan así contigo, tranquilo y lleno de pequeñas posibilidades. Una portada que despierta curiosidad, un título que nos hace reír o una historia que de pronto te dan ganas de contarme porque apareció entre las páginas.
 
@@ -2328,7 +2328,7 @@ qué bonito la nuestra imaginar.`,
   {
     id: "cuando-quieras-un-paseo-junto-al-mar",
     titulo: "Cuando quieras un paseo junto al mar",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy te apetece imaginar un lugar abierto, esta carta te lleva a un paseo junto al mar. Puedes elegir la hora y el paisaje; yo imagino el sonido del agua y la posibilidad de caminar contigo sin prisa. Me gusta la idea de tener espacio para conversar y también para quedarnos callados, dejando que el horizonte acompañe lo que cada uno trae dentro.
 
@@ -2351,7 +2351,7 @@ qué bonito contigo caminar.`,
   {
     id: "cuando-imagines-una-tarde-de-otono",
     titulo: "Cuando imagines una tarde de otoño conmigo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esta carta tiene una luz suave y ganas de una tarde tranquila. Imagino un paseo contigo cuando el aire invita a acercarse un poco más, a llevar algo abrigado y a buscar después un lugar cómodo donde conversar. No hace falta que el paisaje cambie mucho para disfrutar de la escena; puedes ponerle los colores del sitio donde estés y hacerla completamente tuya.
 
@@ -2374,7 +2374,7 @@ qué bonito descubrirlos al estar.`,
   {
     id: "cuando-quieras-una-noche-de-peliculas",
     titulo: "Cuando quieras una noche de películas",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Te propongo una noche sencilla: elegir algo para ver, preparar un rincón cómodo y compartir un rato sin demasiadas obligaciones alrededor. Me hace gracia pensar que tal vez tardemos más en decidir la película que en organizar todo lo demás. Aun así, también esa indecisión puede formar parte del plan, una conversación pequeña sobre lo que a cada uno le apetece hoy.
 
@@ -2397,7 +2397,7 @@ todavía habrá algo que conversar.`,
   {
     id: "cuando-quieras-que-te-escriba-desde-el-corazon",
     titulo: "Cuando quieras que te escriba desde el corazón",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy pudiera dejar de preocuparme por encontrar la frase más bonita, empezaría diciéndote que me conmueve tener tantas ganas de acercarme a ti. Que al imaginar una conversación, un abrazo o un rato compartido aparece una ternura que merece ser nombrada. Esta carta nace de ese lugar sencillo, donde el cariño todavía no está ordenado pero ya sabe a quién quiere llegar.
 
@@ -2420,7 +2420,7 @@ lo que también quiero cuidar.`,
   {
     id: "cuando-quieras-conocer-mis-pequenos-deseos",
     titulo: "Cuando quieras conocer mis pequeños deseos contigo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Tengo ganas de contarte unos deseos que no necesitan un escenario enorme. Me gustaría compartir contigo una tarde con margen, elegir algo rico entre los dos y escuchar una historia tuya sin mirar el reloj. Son escenas sencillas, pero al imaginarlas con tu compañía adquieren una calidez que me da muchas ganas de encontrarles un lugar dentro de nuestros días.
 
@@ -2443,7 +2443,7 @@ y elegir cuáles vamos a cuidar.`,
   {
     id: "cuando-te-haga-falta-una-palabra-bonita",
     titulo: "Cuando te haga falta una palabra bonita",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hoy quería dejarte una palabra que pudieras recibir como una caricia: querida. Me gusta porque contiene una intención sencilla y profunda. Alguien se alegra de que existas, tiene ganas de conocerte y desea tratar tu presencia con cariño. Quisiera que al leerla pudieras encontrar algo de eso aquí, un pequeño espacio donde mi atención se acerca a ti con suavidad.
 
@@ -2466,7 +2466,7 @@ para que lo puedas encontrar.`,
   {
     id: "cuando-quieras-un-lunes-mas-dulce",
     titulo: "Cuando quieras un lunes más dulce",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy empieza una semana y te vendría bien una nota cariñosa, aquí tienes una escrita especialmente para ese momento. No trae una lista de cosas que deberías lograr ni te pide recibir el lunes con entusiasmo obligatorio. Solo quiere acercarse, desearte un día amable y dejar un pequeño detalle de ternura entre todo lo que ya está esperando tu atención.
 
@@ -2489,7 +2489,7 @@ que te sepan a algo mejor.`,
   {
     id: "cuando-quieras-celebrar-que-estas-aqui",
     titulo: "Cuando quieras celebrar que estás aquí",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esta carta no está esperando una buena noticia para celebrar. Hoy quería detenerme en algo más sencillo: tú estás aquí, viviendo tu historia, haciendo preguntas y encontrando maneras de seguir. Me enternece pensar en todo lo que hay detrás de una persona, en los caminos que la trajeron al presente y en lo valioso que resulta poder coincidir un rato con ella.
 
@@ -2512,7 +2512,7 @@ y tener ternura para dar.`,
   {
     id: "cuando-quieras-contarme-tu-dia-entero",
     titulo: "Cuando quieras contarme tu día entero",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy tienes ganas de contar tu día desde el principio, esta carta te hace sitio. Puedes empezar por la mañana, por lo que más te llamó la atención o por ese detalle que parece pequeño y aun así se quedó dando vueltas. Me gusta pensar que la cercanía también se construye escuchando esas historias cotidianas que no tendrían por qué convertirse en grandes noticias para merecer tiempo.
 
@@ -2535,7 +2535,7 @@ qué bonito poderte encontrar.`,
   {
     id: "cuando-quieras-un-cumplido-distinto",
     titulo: "Cuando quieras un cumplido que mire más adentro",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hoy quiero dedicarte un cumplido que tenga curiosidad por la persona que eres. Me interesa tu mundo: lo que piensas, lo que quieres comprender y las historias que decides contar. Me parece precioso tener delante a alguien con una mirada propia y sentir ganas de acercarme a ella, de preguntarte algo y descubrir una respuesta que no podría inventar por ti.
 
@@ -2558,7 +2558,7 @@ lo que hace tan tuya tu voz.`,
   {
     id: "cuando-cambien-nuestros-planes",
     titulo: "Cuando cambien nuestros planes",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si un plan que nos hacía ilusión acaba de cambiar, quisiera empezar reconociendo las ganas que había detrás. A veces parece que deberíamos adaptarnos enseguida, pero también puede dar pena perder una escena que ya estábamos imaginando. Me gustaría que pudiéramos decirlo sin convertir la decepción en una culpa, escuchando lo que significaba para cada uno ese rato que esperábamos compartir.
 
@@ -2581,7 +2581,7 @@ nos encuentre dispuestos a intentar.`,
   {
     id: "cuando-quieras-tomar-algo-conmigo",
     titulo: "Cuando quieras tomar algo conmigo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esta carta te acerca una mesa pequeña y una invitación sencilla: sentarnos un rato a tomar lo que te apetezca. Café, té, algo fresco o cualquier cosa que vuelva agradable la conversación. Me gusta la idea de encontrarnos sin necesitar una ocasión enorme, elegir un lugar cómodo y disfrutar de ese momento en que dejamos de llegar y por fin podemos mirarnos con calma.
 
@@ -2604,7 +2604,7 @@ con tiempo, ternura y compañía.`,
   {
     id: "cuando-quieras-mirar-las-nubes",
     titulo: "Cuando quieras mirar las nubes conmigo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hoy he guardado en este sobre un pedacito de cielo para compartir contigo. Imagina que encontramos un lugar cómodo desde donde mirar las nubes y nos damos permiso de pasar unos minutos sin una tarea concreta. Me gusta pensar en un plan así, sencillo y un poco juguetón, donde lo único que necesitamos es curiosidad, ganas de estar cerca y atención al momento que tenemos delante.
 
@@ -2627,7 +2627,7 @@ y el cariño encuentra otra historia.`,
   {
     id: "cuando-quieras-inventar-un-cuento-conmigo",
     titulo: "Cuando quieras inventar un cuento conmigo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Te propongo un juego: inventemos una historia entre los dos, sin necesidad de que sea perfecta ni tenga sentido desde la primera frase. Podemos empezar con una casa pequeña, un viaje improbable o un personaje que se parece a ninguno de nosotros. Me gusta la idea de compartir imaginación contigo, descubrir qué se te ocurre y dejar que tus ideas cambien por completo el rumbo que yo estaba pensando.
 
@@ -2650,7 +2650,7 @@ qué bonito conocerte otra vez.`,
   {
     id: "cuando-quieras-una-dedicatoria-en-un-libro",
     titulo: "Cuando quieras una dedicatoria en un libro",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Imagina que abres un libro y, antes de empezar la historia, encuentras unas líneas escritas para ti. Me gusta esa pequeña sorpresa, un gesto que acompaña algo que puedes disfrutar a tu ritmo y volver a encontrar después. Hoy esta carta quiere ser esa dedicatoria: un lugar discreto donde mi cariño se queda esperando mientras tú eliges cuándo te apetece acercarte a leer.
 
@@ -2673,7 +2673,7 @@ habrá un beso queriéndote acompañar.`,
   {
     id: "cuando-quieras-un-desayuno-con-carino",
     titulo: "Cuando quieras un desayuno preparado con cariño",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Esta carta llega temprano con una mesa imaginaria y ganas de compartir contigo algo rico. No he decidido qué preparar porque prefiero preguntarte qué te apetece por la mañana, qué te gusta y cómo disfrutas empezar el día. Me enternece la idea de conocer esas preferencias sencillas y encontrar una manera concreta de tenerlas en cuenta cuando podamos compartir un rato juntos.
 
@@ -2696,7 +2696,7 @@ tenga un beso fácil de recordar.`,
   {
     id: "cuando-quieras-una-tarde-sin-distracciones",
     titulo: "Cuando quieras una tarde sin distracciones",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Me gustaría reservar alguna tarde para prestarnos atención de una manera sencilla y completa. Un rato en el que podamos dejar a un lado lo que no sea urgente y disfrutar de la conversación, de un paseo o de cualquier plan tranquilo que nos apetezca. No imagino una regla rígida, sino un acuerdo cariñoso de hacer espacio para encontrarnos con un poquito más de presencia.
 
@@ -2719,7 +2719,7 @@ y poder estar de verdad.`,
   {
     id: "cuando-quieras-reir-a-mitad-de-un-beso",
     titulo: "Cuando quieras reír a mitad de un beso",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hay una escena imaginaria que me da mucha ternura: nos acercamos para un beso y algo pequeño nos hace reír justo en medio. Una frase que se quedó pendiente, una torpeza inocente o la simple alegría de encontrarnos tan cerca. Me gusta pensar en ese romanticismo que también sabe ser ligero, que puede interrumpirse con una sonrisa y volver a empezar sin perder nada de lo bonito.
 
@@ -2742,7 +2742,7 @@ que nos dé gusto recordar.`,
   {
     id: "cuando-quieras-darme-la-mano-sin-decir-nada",
     titulo: "Cuando quieras darme la mano sin decir nada",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy te apetece una forma sencilla de cercanía, imagina que acerco mi mano y la dejo disponible junto a la tuya. No necesito acompañar el gesto con una pregunta enorme. A veces basta una invitación pequeña, una manera de decir estoy aquí un momento y me da gusto compartirlo contigo. Puedes recibirla si quieres, quedarte cerca o seguir tranquila en tu propio espacio.
 
@@ -2765,7 +2765,7 @@ y disfrutarla sin tener que explicar.`,
   {
     id: "cuando-necesites-una-pausa-antes-de-seguir",
     titulo: "Cuando necesites una pausa antes de volver al mundo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Puedes quedarte un momento en esta carta antes de continuar con lo que tengas pendiente. No hace falta aprovechar la pausa para resolver algo ni convertirla en una actividad más. Quería dejarte un rincón de palabras tranquilas, un espacio pequeño donde recibir ternura sin tener que demostrar que la necesitas lo suficiente. A veces simplemente apetece detenerse y sentirse acompañada unos minutos.
 
@@ -2788,7 +2788,7 @@ aquí puedes un rato estar.`,
   {
     id: "cuando-quieras-sonar-despierta-conmigo",
     titulo: "Cuando quieras soñar despierta conmigo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Hoy quiero invitarte a imaginar sin que cada idea tenga que convertirse enseguida en un plan. Podemos hablar de lugares que nos dan curiosidad, escenas que nos parecen bonitas o cosas que nos gustaría aprender. Me enternece ese espacio libre de la conversación donde una posibilidad puede aparecer, hacerse un poco más grande y dejarnos disfrutar de lo que nos hace sentir antes de preguntarnos cómo sería realizarla.
 
@@ -2811,7 +2811,7 @@ también es algo bonito que vivir.`,
   {
     id: "cuando-quieras-saber-por-que-escribi-este-buzon",
     titulo: "Cuando quieras saber por qué escribí este buzón",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Este buzón nació de unas ganas sencillas: dejarte un lugar al que pudieras venir cuando te apeteciera leer algo bonito. Quería preparar un detalle hecho de palabras, algo que no dependiera de una fecha especial ni de encontrar la ocasión perfecta para decirte cuánto me importas. Me gustó imaginar que una carta pudiera acompañarte un día cualquiera, justo cuando tú decidieras abrirla.
 
@@ -2834,7 +2834,7 @@ algo bonito que quieras recibir.`,
   {
     id: "cuando-quieras-un-te-quiero-para-llevar",
     titulo: "Cuando quieras un te quiero para llevar",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Este sobre tiene el tamaño imaginario de un bolsillo. Quería escribirte algo que pudieras llevar al salir, una nota pequeña dentro de una carta larga, para que el cariño no se quedara únicamente en el momento de leer. La frase central es sencilla: te quiero. Puedes guardarla junto a tus cosas y dejar que aparezca cuando te apetezca recordar que alguien tuvo ganas de dedicártela con atención.
 
@@ -2857,7 +2857,7 @@ un beso se queda para después llegar.`,
   {
     id: "cuando-sientas-que-me-estoy-volviendo-a-alejar",
     titulo: "Cuando sientas que me estoy volviendo a alejar de ti",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si llegaste a esta carta porque sientes que me estoy volviendo a alejar, quiero empezar escuchándote, incluso antes de encontrar una explicación. No quiero pedirte que ignores lo que notas ni responder a tus dudas con una frase bonita que deje todo igual. Si algo en mi manera de estar te está haciendo sentir distancia, deseo conocerlo y darle una conversación con tiempo, cuidado y honestidad.
 
@@ -2880,7 +2880,7 @@ y conversar cómo volvernos a acercar.`,
   {
     id: "cuando-necesites-recordar-cuanto-te-deseo",
     titulo: "Cuando necesites recordar cuánto te deseo",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Si hoy te apetece saber cuánto te deseo, quiero decírtelo con la cercanía que esta carta permita: tengo ganas de ti. De tu presencia, de mirarte sin prisa y de acortar la distancia entre nuestros rostros cuando a los dos nos nazca. Me enternece y me emociona imaginar ese instante en que una sonrisa deja de ser solo una sonrisa y se vuelve una invitación a acercarnos.
 
@@ -2903,7 +2903,7 @@ y contigo las quiero conversar.`,
   {
     id: "cuando-quieras-volver-al-primero-de-agosto",
     titulo: "Cuando quieras volver al 1 de agosto",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 El 1 de agosto te conocí. Me gusta escribirlo despacio y reconocer lo que esas pocas palabras significan para mí ahora. Una fecha que podría haber sido una casilla más del calendario se volvió el comienzo de esta historia, el punto desde el que puedo mirar hacia todo lo que después me ha nacido compartir contigo. Hoy quiero guardarla aquí con mucho cariño, como se guarda una nota que importa.
 
@@ -2926,7 +2926,7 @@ y ganas de seguirte encontrando al mirar.`,
   {
     id: "cuando-recuerdes-la-cita-del-dos-de-agosto",
     titulo: "Cuando recuerdes nuestra cita del 2 de agosto",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 El 2 de agosto tuvimos una cita, y dentro de ese recuerdo quedaron dos detalles muy concretos: el agua de pepino y la mermelada de mango. Me enternece que nuestra historia tenga esas cosas pequeñas, palabras que quizá para cualquiera serían solamente una bebida y un sabor, pero que a mí me llevan a un día compartido contigo y a las ganas de seguir conociéndote.
 
@@ -2949,7 +2949,7 @@ y yo ternura al volverlas a nombrar.`,
   {
     id: "cuando-quieras-seguir-escribiendo-nuestra-historia",
     titulo: "Cuando quieras seguir escribiendo nuestra historia",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Nuestra historia tiene un comienzo que puedo nombrar: el 1 de agosto, cuando te conocí. Y al día siguiente una cita con recuerdos tan concretos como el agua de pepino que no nos gustó a ninguno y la mermelada de mango. Me gusta pensar en esos primeros detalles como páginas que ya tienen algo nuestro, mientras delante sigue habiendo espacio para lo que queramos elegir y conversar.
 
@@ -2972,7 +2972,7 @@ y atención en lo que elijamos cuidar.`,
   {
     id: "cuando-llegues-al-penultimo-sobre",
     titulo: "Cuando llegues al penúltimo sobre",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Estamos cerca del final de esta colección, y me dieron ganas de hacer una pausa antes de la última carta. Quizá llegaste siguiendo el orden o quizá elegiste este sobre por curiosidad. Me gusta que puedas encontrar tu propio recorrido, detenerte donde te apetezca y dejar que una frase tenga más tiempo si te hizo sentir algo bonito. Este buzón puede visitarse sin prisa.
 
@@ -2995,7 +2995,7 @@ y un beso que no tiene prisa por marchar.`,
   {
     id: "cuando-llegues-a-la-ultima-carta",
     titulo: "Cuando llegues a la última carta",
-    mensaje: `Mi amor,
+    mensaje: `Mi niña,
 
 Llegaste al último sobre de esta colección. Quizá lo abriste al final de todos los demás o quizá tu curiosidad te trajo directamente hasta aquí. Me gusta imaginar las dos posibilidades: tú eligiendo tu propio camino entre estas palabras, sin tener que seguir un orden para encontrar algo que te haga bien.
 

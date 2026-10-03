@@ -68,7 +68,7 @@ window.iniciarCalendarioAmor = function (openLetter) {
     time.textContent = dateLabel;
     document.querySelector('#daily-title').textContent = letter ? letter.titulo : 'Un sobre por escribir';
     document.querySelector('#daily-excerpt').textContent = letter
-      ? letter.mensaje.replace(/^Mi amor,\s*/i, '').trim()
+      ? letter.mensaje.replace(/^Mi (?:amor|niña),\s*/i, '').trim()
       : 'Esta fecha todavía no tiene una carta. Puedes elegir otro día del calendario.';
     openButton.disabled = !letter;
     openButton.setAttribute('aria-label', letter ? `Abrir carta del ${dateLabel}: ${letter.titulo}` : 'No hay carta para esta fecha');
