@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f8f4ec" />
+    <meta name="description" content="Un pequeño buzón de cartas y poemas de amor. Elige un sobre y encuentra unas palabras para ti." />
+    <title>Para ti — Un buzón de amor</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23f8f4ec'/%3E%3Cpath d='M32 49 13 30C1 16 22 5 32 20 42 5 63 16 51 30Z' fill='%23ac5d65'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="cartas.js" defer></script>
+    <script src="cartas-diarias.js" defer></script>
+    <script src="diario.js" defer></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#buzon">Ir a las cartas</a>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand" href="#" aria-label="Para ti, inicio">
+          <svg class="brand-icon" viewBox="0 0 32 32" fill="none" aria-hidden="true"><path d="M16 26S4 18.2 4 10.8C4 4.6 12 3 16 9c4-6 12-4.4 12 1.8C28 18.2 16 26 16 26Z" stroke="currentColor" stroke-width="1.5"/><path d="m9 19 14-7" stroke="currentColor" stroke-width="1.2"/></svg>
+          <span>para ti<span class="brand-dot">.</span></span>
+        </a>
+        <span class="header-note">un pequeño lugar para nosotros</span>
+        <span class="header-flower" aria-hidden="true">✳</span>
+      </header>
+
+      <main>
+        <section class="hero" aria-labelledby="hero-title">
+          <div class="hero-eyebrow"><span></span> PALABRAS QUE TE ABRAZAN <span></span></div>
+          <h1 id="hero-title">Para ti,<br /><em>con todo lo que a veces</em><br />no sé decir.</h1>
+          <p class="hero-intro">Hay días que piden un abrazo, otros una sonrisa.<br class="desktop-break" /> Aquí te dejo un poquito de mí, para cuando lo necesites.</p>
+          <p class="handwritten hero-signature">Con todo mi amor <span aria-hidden="true">♡</span></p>
+
+          <svg class="hero-botanical" viewBox="0 0 130 220" fill="none" aria-hidden="true">
+            <g stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M58 208c24-63 24-112 12-157M77 158c-18-6-35-21-39-40 23 4 37 18 39 40ZM79 129c19-6 33-24 34-42-22 8-33 20-34 42ZM76 100C58 98 44 86 40 70c19 3 31 12 36 30ZM80 183c15-4 26-16 30-31-16 4-25 14-30 31Z"/>
+              <path d="M70 52c-25 5-31-10-20-17-19-18-5-33 9-18C57-7 81-4 79 17c19-15 34 3 14 16 19 5 12 25-8 20-1 18-20 17-15-1Z"/>
+              <circle cx="72" cy="35" r="8"/>
+              <path d="m25 162 4 5m-2-16 3 1m73-100 6-3"/>
+            </g>
+          </svg>
+          <div class="hero-doodle" aria-hidden="true"><span>♡</span><span>✧</span><span>♡</span></div>
+        </section>
+
+        <nav class="section-nav" aria-label="Colecciones de cartas">
+          <a href="#cada-dia"><span aria-hidden="true">☀</span> Una carta al día <small>un año de cariño</small></a>
+          <a href="#buzon"><span aria-hidden="true">♡</span> Abre cuando… <small id="nav-letter-count">tus sobres de amor</small></a>
+        </nav>
+
+        <section class="daily-section" id="cada-dia" aria-labelledby="daily-heading" tabindex="-1">
+          <div class="section-heading">
+            <div><p class="eyebrow">TODO EMPEZÓ UN 1 DE AGOSTO</p><h2 id="daily-heading">Un año de quererte</h2></div>
+            <p class="daily-intro">Desde el día en que te conocí.<br />De agosto a julio, una carta para cada día.</p>
+          </div>
+          <div class="daily-layout">
+            <article class="daily-card" aria-labelledby="daily-title">
+              <div class="daily-card-top"><p class="eyebrow" id="daily-kicker">DÍA 1 · DONDE EMPEZÓ TODO</p><span class="daily-spark" aria-hidden="true">✧</span></div>
+              <div class="daily-card-heading">
+                <div class="date-stamp" aria-hidden="true"><span id="daily-month">PARA TI</span><strong id="daily-day">♡</strong></div>
+                <div><time id="daily-date"></time><h3 id="daily-title">Un día, unas palabras para ti</h3></div>
+              </div>
+              <p class="daily-excerpt" id="daily-excerpt">Elige una fecha y descubre su carta. Todas están escritas con cariño, para acompañarte a lo largo del año.</p>
+              <div class="daily-card-bottom"><button class="daily-open" id="daily-open" type="button" aria-haspopup="dialog" aria-controls="letter-dialog" disabled>Abrir la carta <span aria-hidden="true">↗</span></button><span class="handwritten">Hoy también te quiero.</span></div>
+            </article>
+            <div class="calendar-panel">
+              <div class="calendar-toolbar">
+                <button class="calendar-arrow" id="previous-month" type="button" aria-label="Mes anterior">←</button>
+                <div class="calendar-period"><label class="sr-only" for="calendar-month">Mes del calendario</label><select id="calendar-month"></select><span id="calendar-year"></span></div>
+                <button class="calendar-arrow" id="next-month" type="button" aria-label="Mes siguiente">→</button>
+              </div>
+              <div class="calendar-weekdays" aria-hidden="true"><span>L</span><span>M</span><span>M</span><span>J</span><span>V</span><span>S</span><span>D</span></div>
+              <div class="calendar-days" id="calendar-days" role="group" aria-label="Elige un día del calendario"></div>
+              <div class="calendar-footer"><span><i aria-hidden="true"></i> Hoy</span><button id="calendar-start" type="button">1 de agosto</button><button id="calendar-today" type="button">Ir a hoy</button></div>
+              <p class="calendar-note">Puedes abrir cualquier fecha, a tu ritmo.</p>
+            </div>
+          </div>
+          <p class="sr-only" id="daily-status" role="status" aria-live="polite"></p>
+          <noscript><p class="empty-message">Activa JavaScript para descubrir la carta de cada día.</p></noscript>
+        </section>
+
+        <section class="mailbox" id="buzon" aria-labelledby="mailbox-title" tabindex="-1">
+          <div class="section-heading">
+            <div><p class="eyebrow">TU BUZÓN DE AMOR</p><h2 id="mailbox-title">Abre cuando…</h2></div>
+            <p class="mailbox-hint">Elige un sobre. Lo de adentro es para ti.<svg viewBox="0 0 50 32" fill="none" aria-hidden="true"><path d="M2 3c7 20 25 22 40 15m-9-5 11 4-5 10" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg></p>
+          </div>
+          <div class="letters-grid" id="letters-grid"></div>
+          <p class="empty-message" id="empty-message" hidden>Pronto habrá nuevas palabras esperándote aquí.</p>
+          <noscript><p class="empty-message">Activa JavaScript en tu navegador para abrir las cartas de este buzón.</p></noscript>
+          <p class="collection-note"><span aria-hidden="true">♡</span> <span id="collection-count">Cada carta, una forma de quererte.</span></p>
+        </section>
+
+        <aside class="closing-note" aria-label="Una última notita">
+          <span class="note-flower" aria-hidden="true">✳</span>
+          <p>No hace falta una fecha especial<br />para recordarte lo mucho que te quiero.</p>
+          <span class="handwritten">Hoy también, mi amor.</span>
+        </aside>
+      </main>
+
+      <footer class="site-footer"><span>Hecho de palabras, lleno de ti.</span><span>Con amor, siempre <span class="footer-heart" aria-hidden="true">♡</span></span></footer>
+    </div>
+
+    <dialog class="letter-dialog" id="letter-dialog" aria-labelledby="letter-title">
+      <div class="letter-toolbar"><span>UNA CARTA PARA TI</span><button class="close-letter" id="close-letter" type="button" aria-label="Cerrar carta" autofocus><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg></button></div>
+      <article class="letter-paper" id="letter-paper">
+        <span class="letter-heart" aria-hidden="true">♡</span>
+        <p class="eyebrow letter-number" id="letter-number"></p>
+        <h2 id="letter-title"></h2>
+        <div class="letter-message" id="letter-message"></div>
+        <div class="poem-block" id="poem-block"><span class="poem-ornament" aria-hidden="true">✧</span><p class="letter-poem" id="letter-poem"></p></div>
+        <p class="handwritten letter-signature">Con todo mi amor, para ti.</p>
+        <button class="back-button" id="back-button" type="button"><span aria-hidden="true">←</span> <span id="back-label">Volver al buzón</span></button>
+      </article>
+    </dialog>
+  </body>
+</html>

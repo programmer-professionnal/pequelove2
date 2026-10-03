@@ -1,0 +1,9 @@
+.env
+.env.*
+node_modules/
+.codex/
+.agents/
+.aws/
+*.log
+Thumbs.db
+.DS_Store
